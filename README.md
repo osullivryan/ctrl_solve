@@ -1,4 +1,4 @@
-# ode
+# Ctrl_Solve
 Differential Equation Solver
 
 Version: Alpha 0.1
