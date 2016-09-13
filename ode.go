@@ -2,7 +2,7 @@
 // Runge-Kutta-Fehlberg 4th/5th order with dynamic timestep //
 //////////////////////////////////////////////////////////////
 
-func rk45(from, h, to float64, y []float64, fn func(float64, []float64) []float64) [][]float64 {
+func rkf45(from, h, to float64, y []float64, fn func(float64, []float64) []float64) [][]float64 {
   eps := 0.000001
 	var parameters = len(y)
 
