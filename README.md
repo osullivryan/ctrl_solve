@@ -1,5 +1,5 @@
 # Ctrl_Solve
-Differential Equation Solver
+Differential Equation Solver in Golang
 
 Version: Alpha 0.1
 
